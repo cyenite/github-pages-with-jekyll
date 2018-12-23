@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Akron Blog
 
-I'm glad you are here. I plan to talk about ...
+Hello everyone, I'm really glad you are here. Im just at the tutorial point of web hosting with github. Stay tuned with me for more updates
